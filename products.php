@@ -3,10 +3,11 @@
     session_start();
     require 'check_if_added.php';
     include 'includes/head.php';
-     $pro=$_GET['eu'];
+     $pro=$_GET['eu'];  
      $sql = "SELECT * FROM items WHERE shopname = '$pro' ";
      $shop = $con->query($sql);
     ?>
+
         <div>
             <?php
                 require 'header.php';

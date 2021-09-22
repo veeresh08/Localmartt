@@ -60,7 +60,7 @@
                     <div class="col-xs-6 col-xs-offset-3">
                         <div class="panel panel-primary">
                             <div class="panel-heading">
-                                <h3>ADMIN LOGIN</h3>
+                                <h3>SELLER LOGIN</h3>
                             </div>
                             <div class="panel-body">
                                 <p>Login to make a purchase.</p>

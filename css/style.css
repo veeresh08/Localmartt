@@ -82,7 +82,7 @@
     bottom: 0;
     right: 0;
     position: absolute;
-    opacity: 0;
+    /* opacity: 25px; */
     transition: all .5s ease;
 }
 
@@ -93,7 +93,7 @@
 
 .prod-feature {
     text-align: center;
-    margin-top: 160px;
+    margin-top: 240px;
     transition: all .5s ease;
 }
 
@@ -119,6 +119,10 @@
 .prod-feature input:hover{
     background: #1b6d18;
     transition: all .5s ease;
+}
+
+.row{
+    margin-bottom: 80px;
 }
 
 

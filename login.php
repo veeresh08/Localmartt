@@ -32,7 +32,7 @@
                                     </div>
                                 </form>
                                 Are you a shop owner ?
-                         <input type="submit" value="Admin Login" onclick="window.location.href='admin/login.php'" class="btn btn-primary">
+                         <input type="submit" value="Seller Login" onclick="window.location.href='admin/login.php'" class="btn btn-primary">
                             </div>
                             <div class="panel-footer">Don't have an account yet? <a href="signup.php">Register</a></div>
                         </div>

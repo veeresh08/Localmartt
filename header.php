@@ -6,7 +6,8 @@
                            <span class="icon-bar"></span>
                            <span class="icon-bar"></span>
                        </button>
-                       <a href="map.php" class="navbar-brand"><img src="img/EUU.WEBP" style="max-width:130px; margin-top:-50px"></a>
+                       <a href="map.php" class="navbar-brand"><img src="img/EUU.PNG" style="max-width:170px; margin-top:-60px"></a>
+                       
                    </div>
                    
                    <div class="collapse navbar-collapse" id="myNavbar">
